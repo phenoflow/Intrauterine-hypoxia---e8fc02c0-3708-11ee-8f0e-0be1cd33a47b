@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/intrauterine-hypoxia-staining---primary.py
+inputModule3:
+  class: File
+  path: python/intrauterine-hypoxia-distress---primary.py
+inputModule4:
+  class: File
+  path: python/fetal-intrauterine-hypoxia---primary.py
+inputModule5:
+  class: File
+  path: python/intrauterine-hypoxia-stained---primary.py
+inputModule6:
+  class: File
+  path: python/intrauterine-hypoxia-unspecified---primary.py
+inputModule7:
+  class: File
+  path: python/intrauterine-hypoxia-delivery---primary.py
+inputModule8:
+  class: File
+  path: python/amniotic-intrauterine-hypoxia---primary.py
+inputModule9:
+  class: File
+  path: python/intrauterine-hypoxia-evidence---primary.py
+inputModule10:
+  class: File
+  path: python/intrauterine-hypoxia---primary.py
+inputModule11:
+  class: File
+  path: python/intrauterine---primary.py
+inputModule12:
+  class: File
+  path: python/intrauterine-hypoxia-prelabour---primary.py
+inputModule13:
+  class: File
+  path: python/intrauterine-hypoxia-heart---primary.py
+inputModule14:
+  class: File
+  path: python/intrauterine-hypoxia-meconium---primary.py
+inputModule15:
+  class: File
+  path: python/intrauterine-hypoxia---secondary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
